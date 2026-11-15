@@ -1,6 +1,17 @@
 # 🦯 Blind Stick — Smart Navigation & Fall Detection Aid
 
-An IoT-enabled smart cane for visually impaired users. It combines **ultrasonic obstacle detection**, **MPU6050-based fall detection**, and a **Firebase-connected mobile app** to alert when an obstacle is near or when the user has fallen.
+<div align="center">
+
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![ESP8266](https://img.shields.io/badge/Hardware-ESP8266%20%7C%20Arduino-E7352C?style=for-the-badge&logo=arduino&logoColor=white)](https://www.espressif.com/)
+[![Firebase](https://img.shields.io/badge/Cloud-Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Android](https://img.shields.io/badge/App-Android%20Companion-3DDC84?style=for-the-badge&logo=android&logoColor=white)](Application/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Developer](https://img.shields.io/badge/Developer-Nasim--Sami-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasim-Sami)
+
+**An IoT-enabled smart cane for visually impaired users combining ultrasonic obstacle detection, MPU6050 3-stage fall detection, and real-time cloud alert sync with a companion Android app.**
+
+</div>
 
 ## 🎯 What It Does
 
@@ -108,6 +119,14 @@ Mount the ultrasonic sensor and MPU6050 on a cane, power the ESP8266, and pair w
 | Cloud | Firebase Realtime Database |
 | Mobile app | Android (`Finder.apk`) |
 
+## 👤 Author
+
+**Nasim Sami**  
+- **GitHub:** [@Nasim-Sami](https://github.com/Nasim-Sami)  
+- **Interests:** IoT, Assistive Robotics, Embedded Systems, Mechatronics.
+
+---
+
 ## 📄 License
 
-Academic / hackathon project — educational use.
+This repository is licensed under the [MIT License](LICENSE). Open for academic, research, and assistive device development.
